@@ -1,3 +1,6 @@
+![W200i My Friends login](screenshoots/1.png)  
+
+
 **Village IMPS / Wireless Village Server**  
 Village is a small PHP + SQLite server for IMPS / Wireless Village clients.  
 It was tested with the Sony Ericsson W200i app. Other clients used  
@@ -66,6 +69,5 @@ Also check the web server `error_log` for PHP errors such as missing PDO/SQLite
 **Screenshot**  
 
 
-![W200i My Friends login](screenshoots/1.png)  
 
   
