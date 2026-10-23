@@ -1,7 +1,7 @@
 ![W200i My Friends login](screenshoots/1.png)  
 
 
-** IMPS PHP Server**  
+**IMPS PHP Server**  
 IMPS PHP is a small PHP + SQLite server for IMPS / Wireless Village clients.  
 It was tested with the Sony Ericsson W200i app. Other clients used  
 different names for the same service, for example Nokia “My Presence”, Sony  Ericsson “My Friends” (or “Messenger”), and BlackBerry “IM”. 
