@@ -1,11 +1,10 @@
 ![W200i My Friends login](screenshoots/1.png)  
 
 
-**Village IMPS / Wireless Village Server**  
-Village is a small PHP + SQLite server for IMPS / Wireless Village clients.  
+** IMPS PHP Server**  
+IMPS PHP is a small PHP + SQLite server for IMPS / Wireless Village clients.  
 It was tested with the Sony Ericsson W200i app. Other clients used  
-   
- different names for the same service, for example Nokia “My Presence”, Sony  Ericsson “My Friends” (or “Messenger”), and BlackBerry “IM”. 
+different names for the same service, for example Nokia “My Presence”, Sony  Ericsson “My Friends” (or “Messenger”), and BlackBerry “IM”. 
 
 It provides:  
 - IMPS/CSP login with challenge/response.  
