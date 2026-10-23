@@ -50,12 +50,12 @@ If registration or login fails with `Class "PDO" not found`, PDO/SQLite is not
 **Troubleshooting**  
 Check `csp.log` on the server.  
 Useful log lines:  
-```  
+   
 LOGIN OK nick=...  
  LOGIN FAIL nick=... ip=... digest_len=24 nonce=yes  
  LOGIN FAIL nick=... ip=... digest_len=24 nonce=no  
    
-```  
+   
 Meaning:  
 - `LOGIN OK`: login succeeded.  
 - `nonce=yes` but failed: the digest did not match; check the mobile password.  
@@ -64,7 +64,8 @@ Also check the web server `error_log` for PHP errors such as missing PDO/SQLite
    
  extensions.  
 **Screenshot**  
-```  
+
+
 ![W200i My Friends login](screenshoots/1.png)  
-   
-```  
+
+  
